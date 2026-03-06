@@ -1,0 +1,64 @@
+{
+  "version": 1,
+  "base_track": "スターラブレイション",
+  "base_artist": "ケラケラ",
+  "createdAt": "2026-03-06T22:58:39.207213Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "スターラブレイション",
+      "artist": "ケラケラ",
+      "has_synced": false,
+      "path": "select/01_スターラブレイション_ケラケラ.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "スターラブレイション",
+      "artist": "Kera Kera",
+      "has_synced": false,
+      "path": "select/02_スターラブレイション_Kera_Kera.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "スターラブレイション",
+      "artist": "346PRO",
+      "has_synced": true,
+      "path": "select/03_スターラブレイション_346PRO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "スターラブレイション",
+      "artist": "ケラケラ",
+      "has_synced": false,
+      "path": "select/04_スターラブレイション_ケラケラ.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "スターラブレイション - Star Love Ration",
+      "artist": "Kerakera",
+      "has_synced": true,
+      "path": "select/05_スターラブレイション_-_Star_Love_Ration_Kerakera.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "スターラブレイション",
+      "artist": "ケラケラ",
+      "has_synced": true,
+      "path": "select/06_スターラブレイション_ケラケラ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スターラブレイション",
+      "artist": "ケラケラ",
+      "has_synced": false,
+      "path": "select/pl_01_スターラブレイション_ケラケラ.txt"
+    }
+  ]
+}
